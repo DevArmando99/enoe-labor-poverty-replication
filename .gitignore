@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets / environment
+.env
+.env.*
+*.pem
+*.key
+
+# Raw and heavy data
+/data/raw/
+/data/parquet/
+
+# Generated outputs kept outside GitHub by default
+/outputs/paradata/
+/outputs/validation/
+/outputs/metadata/
+
+# Large/binary analysis artifacts
+*.parquet
+*.feather
+*.arrow
+*.zip
+*.7z
+*.rar
+
+# Office/raw source files
+*.xlsx
+*.xls
+*.ods
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Keep lightweight published results and figures under version control
+!results/*.csv
+!docs/figures/*.png
+!docs/figures/*.jpg
+!docs/figures/*.jpeg
+!docs/figures/*.svg
