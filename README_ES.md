@@ -93,7 +93,9 @@ Este repositorio corresponde al caso de estudio aplicado y a la capa de validaci
 
 ## Paquete de reproducibilidad
 
-El paquete completo de reproducibilidad se distribuye por separado debido al tamaño de los microdatos ENOE y de los archivos intermedios. Incluye insumos originales, archivos Parquet convertidos, tablas unidas, datasets analíticos trimestrales, Parquet histórico, indicadores, metadatos, paradata y salidas de validación.
+El paquete completo de reproducibilidad está disponible en Google Drive e incluye los archivos necesarios para reproducir el notebook: insumos originales, archivos Parquet convertidos, tablas unidas, datasets analíticos trimestrales, Parquet histórico, indicadores, metadatos, paradata y salidas de validación.
+
+**Google Drive:** https://drive.google.com/drive/folders/1mM-0LM7H3n_Y5Yj5vCgZJLL727uqu3lJ?usp=drive_link
 
 Antes de redistribuir los archivos fuente originales de ENOE, deben verificarse las condiciones vigentes de uso y redistribución establecidas por INEGI. Si no resulta apropiado redistribuirlos, conviene mantener un manifiesto con los nombres exactos de los archivos oficiales y sus ubicaciones de descarga.
 
