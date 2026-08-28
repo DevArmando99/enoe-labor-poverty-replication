@@ -93,7 +93,9 @@ This repository is the applied case study and statistical validation layer. The 
 
 ## Reproducibility package
 
-The full reproducibility package is designed to be distributed separately because the ENOE raw and intermediate files are too large for normal GitHub versioning. It includes the original source inputs, converted Parquet files, merged datasets, analytical quarterly files, historical analytical Parquet, indicators, metadata, paradata, and validation outputs.
+The full reproducibility package is available in Google Drive and contains the files needed to reproduce the notebook, including source inputs, converted Parquet files, merged datasets, analytical quarterly files, the historical analytical Parquet, indicators, metadata, paradata, and validation outputs.
+
+**Google Drive:** https://drive.google.com/drive/folders/1mM-0LM7H3n_Y5Yj5vCgZJLL727uqu3lJ?usp=drive_link
 
 Before redistributing original ENOE source files, verify the current INEGI terms applicable to the microdata. If redistribution is not appropriate, keep a manifest of exact official source files and download locations instead.
 
