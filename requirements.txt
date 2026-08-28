@@ -1,0 +1,14 @@
+pandas>=2.2,<4
+numpy>=1.26,<3
+pyarrow>=15,<25
+scipy>=1.11,<2
+statsmodels>=0.14,<1
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+openpyxl>=3.1,<4
+jupyter>=1.0,<2
+ipykernel>=6.29,<8
+
+# Full pipeline dependency:
+# install the enoe-utilities package separately from its GitHub repository
+# or from the local source used for the replication.
